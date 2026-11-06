@@ -1,5 +1,5 @@
 {
-  "dependencies": {
+  "devDependencies": {
     "vercel": "^41.6.2"
   }
 }
